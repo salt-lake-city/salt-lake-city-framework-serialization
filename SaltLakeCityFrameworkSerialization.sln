@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaltLakeCity.Framework.Serialization", "SaltLakeCity.Framework.Serialization\SaltLakeCity.Framework.Serialization.csproj", "{C4D3A883-52D1-4113-BB13-82AB5900E5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaltLakeCity.Framework.Serialization.Tests", "SaltLakeCity.Framework.Serialization.Tests\SaltLakeCity.Framework.Serialization.Tests.csproj", "{18EEAC94-7708-494A-BAC9-DB3C0CADB0A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D3A883-52D1-4113-BB13-82AB5900E5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D3A883-52D1-4113-BB13-82AB5900E5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D3A883-52D1-4113-BB13-82AB5900E5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D3A883-52D1-4113-BB13-82AB5900E5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EEAC94-7708-494A-BAC9-DB3C0CADB0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EEAC94-7708-494A-BAC9-DB3C0CADB0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EEAC94-7708-494A-BAC9-DB3C0CADB0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EEAC94-7708-494A-BAC9-DB3C0CADB0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

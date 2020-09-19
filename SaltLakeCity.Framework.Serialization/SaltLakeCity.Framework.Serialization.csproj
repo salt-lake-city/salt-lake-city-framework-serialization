@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <PackageId>SaltLakeCity.Framework.Serialization</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>Jan Heinsohn</Authors>
+        <Company>Jan Heinsohn</Company>
+        <PackageDescription>Salt Lake City Framework Serializazion</PackageDescription>
+        <RepositoryUrl>https://github.com/salt-lake-city/salt-lake-city-framework-serialization</RepositoryUrl>
+        <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    </PropertyGroup>
+
+</Project>

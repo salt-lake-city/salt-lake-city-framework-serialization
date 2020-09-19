@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b519734-b98b-48fc-a116-a81eee9da609" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SaltLakeCityFrameworkSerialization/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization.Tests/Base/AutoSerializerTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization.Tests/SaltLakeCity.Framework.Serialization.Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization.Tests/SaltLakeCity.Framework.Serialization.Tests.csproj.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/AutoSerializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/ByteSerializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/ISerializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/SerializerBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/SaltLakeCity.Framework.Serialization.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/SaltLakeCity.Framework.Serialization.csproj.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaltLakeCityFrameworkSerialization.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Class1.cs" />
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/ByteSerializer.cs" />
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/SerializerBase.cs" />
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization.Tests/Base/AutoSerializerTests.cs" />
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/Base/AutoSerializer.cs" />
+        <option value="$PROJECT_DIR$/SaltLakeCity.Framework.Serialization/SaltLakeCity.Framework.Serialization.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hk6i9A6kaF18mjSJrFoeGnpbSH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b519734-b98b-48fc-a116-a81eee9da609" name="Default Changelist" comment="" />
+      <created>1600542866239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600542866239</updated>
+      <workItem from="1600542874129" duration="2860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="257" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1600543023888">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="413" y="257" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1368.872@0.0.1368.872" timestamp="1600543023888" />
+    <state x="277" y="168" key="Rider.ProjectTemplateDialog.Size" timestamp="1600543772899">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="168" key="Rider.ProjectTemplateDialog.Size/0.0.1368.872@0.0.1368.872" timestamp="1600543772899" />
+    <state x="516" y="51" key="RiderGenerateDialog" timestamp="1600543251353">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="516" y="51" key="RiderGenerateDialog/0.0.1368.872@0.0.1368.872" timestamp="1600543251353" />
+  </component>
+</project>
