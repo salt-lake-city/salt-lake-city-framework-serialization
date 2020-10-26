@@ -11,6 +11,11 @@ namespace SaltLakeCity.Framework.Serialization
     /// <typeparam name="TFor">Typ, für den der Serializer ist</typeparam>
     public class AutoSerializer<TFor> : SerializerBase<TFor>
     {
+        /// <summary>
+        /// Delegate für das Schreiben eines Wertes
+        /// </summary>
+        /// <param name="value">Wert, der geschrieben werden soll</param>
+        /// <param name="serializer">Serializer, mit dem Serialisiert wird</param>
         private delegate void WriteDelegate(object value, ByteSerializer serializer);
 
         private delegate object ReadDelegate(ByteSerializer serializer);
@@ -24,6 +29,10 @@ namespace SaltLakeCity.Framework.Serialization
             {
                 typeof(int),
                 (value, serializer) => serializer.Write((int) value)
+            },  
+            {
+                typeof(bool),
+                (value, serializer) => serializer.Write((bool) value)
             },
             {
                 typeof(float),
@@ -40,6 +49,10 @@ namespace SaltLakeCity.Framework.Serialization
             {
                 typeof(int),
                 serializer => serializer.ReadInt()
+            },   
+            {
+                typeof(bool),
+                serializer => serializer.ReadBool()
             },
             {
                 typeof(float),
@@ -56,6 +69,12 @@ namespace SaltLakeCity.Framework.Serialization
         {
             _properties = typeof(TFor).GetProperties();
         }
+
+        /// <summary>
+        /// Serialisiert das Objekt in den Byte Serializer
+        /// </summary>
+        /// <param name="value">Wert, der Serialisiert werden soll</param>
+        /// <param name="serializer">Serializer, in den die Werte geschrieben werden</param>
         protected override void Serialize(TFor value, ByteSerializer serializer)
         {
             foreach (var propertyInfo in _properties)
@@ -64,6 +83,11 @@ namespace SaltLakeCity.Framework.Serialization
             }
         }
 
+        /// <summary>
+        /// Deserialisiert ein Objekt
+        /// </summary>
+        /// <param name="serializer">Serializer, dem das serialisierte Objekt zu entnehmen ist</param>
+        /// <returns>Deserialisierte Instanz</returns>
         protected override TFor Deserialize(ByteSerializer serializer)
         {
             // => Instanz erzeugen
